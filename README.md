@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align='center'>
 
-<!--
-**kuntydev/kuntydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    
+```full focused / trying to find & create new things.```
+    
+    
+[![Discord Presence](https://lanyard.cnrad.dev/api/822475459500834877)](https://discord.com/users/822475459500834877)
+    
+    
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript) 
+![NODE](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=node.js) 
+   
 
-Here are some ideas to get you started:
+<!---![profile](https://img.shields.io/badge/I%20dont%20responsible%20any%20repository%20on%20my%20profile!-black?style=for-the-badge&logo=dev&logoColor=white)-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
